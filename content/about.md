@@ -5,7 +5,9 @@ title: About
 
 Hi, I am Alberto. Welcome to my page! 
 
-I'm passionate about Data Analysis and Visualization, Evaluation, Strategic Planning and Implementation, and Systems Change. This is a work in progress. I continue to learn about each of these topics and hope I can share some of that with you. 
+I work at the intersection of Data Analysis and Visualization, Evaluation, Strategic Planning and Implementation, and Systems Change. 
+
+I continue to learn about each of these topics and hope I can share some of that with you. 
 
 Go ahead and browse the website for examples of previous projects and work.
 
