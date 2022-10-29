@@ -3,4 +3,12 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Hi, I am Alberto. Welcome to my page! 
+
+I'm passionate about Data Analysis and Visualization, Evaluation, Strategic Planning and Implementation, and Systems Change. This is a work in progress. I continue to learn about each of these topics and hope I can share some of that with you. 
+
+Go ahead and browse the website for examples of previous projects and work.
+
+If you want to connect to learn more about how I can help you, please click my LinkedIn profile and send me a direct message!
+
+I'm looking forward to meeting you!
