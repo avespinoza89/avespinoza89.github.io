@@ -15,6 +15,6 @@ I continue to learn about each of these topics and hope I can share some of that
 
 Go ahead and browse the website for examples of previous projects and work, resources, and other helpful information. 
 
-##Let's Connect!
+**Let's Connect!**
 
 Let's talk about how I can help your organization harness the power of data and evaluation. Send me an [email](mailto:av_espinoza@outlook.com) or direct message me on [LinkedIn](https://www.linkedin.com/in/alberto-espinoza-es/)!
