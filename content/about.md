@@ -17,4 +17,4 @@ Go ahead and browse the website for examples of previous projects and work, reso
 
 **Let's Connect!**
 
-Let's talk about how I can help your organization harness the power of data and evaluation. Send me an [email](mailto:av_espinoza@outlook.com) or direct message me on [LinkedIn](https://www.linkedin.com/in/alberto-espinoza-es/)!
+Let's talk about how I can help your organization harness the power of data and evaluation. Send me an [email](mailto:av_espinoza@outlook.com) or direct message me on [LinkedIn](https://www.linkedin.com/in/alberto-espinoza-es/){:target="_blank"}!
