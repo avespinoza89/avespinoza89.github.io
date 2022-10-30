@@ -1,6 +1,6 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: About
+title: About Me
 ---
 
 Hi, there, welcome to my page!
@@ -17,4 +17,6 @@ Go ahead and browse the website for examples of previous projects and work, reso
 
 **Let's Connect!**
 
-Let's talk about how I can help your organization harness the power of data and evaluation. Send me an [email](mailto:av_espinoza@outlook.com) or direct message me on [LinkedIn](https://www.linkedin.com/in/alberto-espinoza-es/){:target="_blank"}!
+Let's talk about how I can help your organization harness the power of data and evaluation. Send me an [email](mailto:av_espinoza@outlook.com) or direct message me on <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank">LinkedIn!</a>
+
+
