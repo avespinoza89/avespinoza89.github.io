@@ -9,9 +9,7 @@ Let me tell you a bit about myself.
 
 I work at the intersection of Data Analysis and Visualization, Evaluation, Strategic Planning and Implementation, and Systems Change. 
 
-I help organizations utilize data to evaluate their work and make strategic decisions that lead to positive change and improvement.
-
-I continue to learn about each of these topics and hope I can share some of that with you. 
+I help organizations and businesses utilize data to evaluate their work and make strategic decisions that lead to positive business and social change and improvement. 
 
 Go ahead and browse the website for examples of previous projects and work, resources, and other helpful information. 
 
