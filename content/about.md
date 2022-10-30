@@ -15,4 +15,4 @@ I continue to learn about each of these topics and hope I can share some of that
 
 Go ahead and browse the website for examples of previous projects and work, resources, and other helpful information. 
 
-If you want to connect send me an email or connect on LinkedIn!
+If you want to connect send me an email or connect on [LinkedIn](https://www.linkedin.com/in/alberto-espinoza-es/)!
