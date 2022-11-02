@@ -11,7 +11,7 @@ I work at the intersection of Data Analysis and Visualization, Evaluation, Strat
 
 I help organizations and businesses utilize data to evaluate their work and make strategic decisions that lead to positive business and social change and improvement. 
 
-Go ahead and browse the website for examples of previous projects and work, resources, and other helpful information. You can also check out my full [resume].
+Go ahead and browse the website for examples of previous projects and work, resources, and other helpful information. You can also check out my full <a href="https://github.com/avespinoza89/avespinoza89.github.io/raw/main/content/Alberto_Espinoza_Resume.pdf" target="_blank">resume</a>
 
 **Let's Connect!**
 
