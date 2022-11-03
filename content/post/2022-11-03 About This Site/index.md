@@ -3,7 +3,7 @@ date: "2022-11-03"
 title: Welcome to my website!
 ---
 
-Hi, I'm sure you've had a chance to read the About Me section on my website. If not, I encourage you to go back and read through that--it'll only take a minute. 
+Hi, I'm sure you've had a chance to read the About Me section. If not, I encourage you to go back and read through that--it'll only take a minute. 
 
 This is my first post and I'm excited to finally have a website up and running! 
 
