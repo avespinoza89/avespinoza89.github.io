@@ -19,7 +19,7 @@ menu:
     - name: GitHub
       url: https://github.com/avespinoza89
     - name: LinkedIn
-      url: <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank"> </a>
+      url: https://www.linkedin.com/in/alberto-espinoza-es/
     - name: Tableau Public
       url: https://public.tableau.com/app/profile/alberto.v.espinoza
 params:
