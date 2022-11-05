@@ -16,6 +16,8 @@ menu:
   main:
     - name: About
       url: /about/
+    - name: Portfolio
+      url: /portfolio/
     - name: Services
       url: /services/
     - name: GitHub
