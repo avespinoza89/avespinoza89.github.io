@@ -56,4 +56,4 @@ I do this through a methodical process of learning about you and your organizati
 - Process evaluation
 - Outcome evaluation
 
-Let's talk more about how I can help you achieve your business and organizational goals! Send me an [email](mailto:av_espinoza@outlook.com) or direct message on <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank">LinkedIn!</a>
+Let's talk more about how I can help you achieve your business and organizational goals! Send me an [email](mailto:av.espinoza@outlook.com) or direct message on <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank">LinkedIn!</a>
