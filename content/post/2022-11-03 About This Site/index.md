@@ -11,4 +11,4 @@ This is a work in progress as much as an experiment in website development. I am
 
 Here, I will share examples of my work, resources to help you learn about data and evaluation, and demonstrate how I can help your organization or business achieve your fullest potential.  
 
-Please come back as often as you'd like and remember, if you want to grab a coffee and chat about data and evaluation, simply send me an [email](mailto:av_espinoza@outlook.com) or message on <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank">LinkedIn.</a> 
+Please come back as often as you'd like and remember, if you want to grab a coffee and chat about data and evaluation, simply send me an [email](mailto:av.espinoza@outlook.com) or message on <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank">LinkedIn.</a> 
