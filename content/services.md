@@ -13,12 +13,12 @@ I do this through a methodical process of learning about you and your organizati
 
 # Services
 
-## Performance Analytics
+### Performance Analytics
 
 - Results Accountability implementation
 - Key Performance Indicators (KPI's) development and analysis
 
-## Data Collection, Processing, and Cleaning
+### Data Collection, Processing, and Cleaning
 
 - Survey instrument development* 
 - Survey deployment* 
@@ -28,28 +28,29 @@ I do this through a methodical process of learning about you and your organizati
 
 *Bilingual: English & Spanish
 
-## Data Analysis & Reporting
+### Data Analysis & Reporting
 
 - Exploratory data analysis
 - Descriptive statistics
 - Data Visualization
 - Custom reports & dashboards
 
-## Market Research
+### Market Research
 
 - Competitor analysis
 - Industry research
 - Site analysis
 - Target market development and segmentation
 
-## Program Planning & Implementation
+### Planning & Implementation
 
 - Needs assessments
 - Program design
 - Theory of Change and Logic Model development
-- Program budget development
+- Budget development
+- Business planning 
 
-## Program Evaluation
+### Evaluation
 
 - Evaluability assessment
 - Process evaluation
