@@ -1,15 +1,15 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: Services
+title: Consulting
 ---
 
 Thanks for your interest in my services!
 
-My goal is to help you address an existing need or problem in your business or organization through the use of your data that leading to positive business and social change and improvement.
+My goal is to help you address an existing need or problem in your business or organization through the use of your data that leads to positive business and social change and improvement.
 
 Most businesses and organizations are already capturing lots of information and data about their customers and clients. I help organizations uncover that information and develop systems to methodically collect, track, and analyze their data, resulting in data-informed decision-making. 
 
-I do this through a methodical process of learning about you and your organization or business, identifying key areas of improvement, developing an implementation plan, creating key project objectives and results, and building your team's capacity to continue this process long after my work is complete.  
+I do this by learning about you and your organization or business, identifying key areas of improvement, developing an implementation plan, creating key project objectives and results, and building your team's capacity to continue this process long after my work is complete.  
 
 # What I Can Do for You
 
