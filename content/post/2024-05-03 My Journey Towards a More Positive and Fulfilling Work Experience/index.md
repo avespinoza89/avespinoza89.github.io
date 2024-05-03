@@ -15,17 +15,17 @@ As my wife and I talked about these feelings, I mentioned to her that I thought 
 
 I was experiencing a significant contrast between my current situation and the challenges I had faced previously. Relief from the stress and difficulties of past roles initially felt freeing, but also left me grappling with a sense of disorientation or detachment as I adjusted to a new reality. My body, mind, and spirit had become accustomed to dealing with these situations daily.
 
-I had adapted to navigating these challenges in the workplace as a part of my daily routine. Over time, I had grown accustomed to coping with these situations, and they became an unfortunate but accepted aspect of my everyday life. 
+I had adapted to navigating these challenges in the workplace as part of my daily routine. Over time, I had grown accustomed to coping with these situations, and they became an unfortunate but accepted aspect of my everyday life. 
 
-Transitioning from a high-stress environment to one that is more supportive and fulfilling created a mix of emotions. On one hand, I felt relieved and liberated. I no longer had to contend with the constant pressure and negativity that characterized my previous workplaces.
+Transitioning from a high-stress environment to one that is more supportive and fulfilling created a mix of emotions. I felt relieved and liberated. I no longer had to contend with the constant pressure and negativity that characterized my previous workplaces.
 
 This shift prompted a period of adjustment as I recalibrated my mindset and reoriented myself to a new normal. The absence of familiar stressors left me feeling strangely adrift, and not quite sure how to navigate this newfound sense of freedom and ease.
 
 I know I am not alone. In these past workplaces, I encountered peers experiencing the same challenges. For many, that continues to be their reality. It's heartbreaking that so many individuals face similar challenges in their workplaces.
 
-If you find yourself in a situation where you're experiencing doubt, discrimination, or other forms of mistreatment in the workplace, it's important to remember that you deserve better. You deserve to work in an environment where your contributions are valued, your talents are recognized, and you're treated with dignity and respect.
+If you find yourself in a situation where you're experiencing doubt, stress, gas lighting, racial bias, discrimination, microaggressions, or other forms of abuse or mistreatment in the workplace, it's important to remember that you deserve better. You deserve to work in an environment where your contributions are valued, your talents are recognized, and you're treated with dignity and respect.
 
-As I write this, I sit at one of my favorite coffee shops, sipping on cold brew, listening to music, and finally updating my website and writing this post to share something I had been wanting to share with the world for quite some time. Today is also the second week of a four-day work week my new employer has implemented in which all staff have Friday's off. 
+As I write this, I sit at one of my favorite coffee shops, sipping on cold brew, listening to music, and finally updating my website and writing this post to share something I had been wanting to share with the world for quite some time. Today is also the second week of a four-day work week PEAK Grantmaking has implemented in which all staff have Friday's off. 
 
 I have found a workplace that prioritizes <a href="https://www.peakgrantmaking.org/insights/the-path-to-radical-wellness-how-peaks-focus-on-team-well-being-is-driving-our-evolution/" target="_blank">rest and wellness</a>, values each individual for who they are, and centers equity in all aspects of its operations. I have found a place where I can not only contribute my talents and skills but also be valued and supported as my authentic self.
 
@@ -35,8 +35,8 @@ This sounds like the kind of inclusive, supportive, and empowering environment e
 
 You may be wondering what have I been doing, or will do, with my Fridays. Well, a couple of weeks ago, I had a chance to present a short evaluation training to nonprofit Executive Directors and CEO's from the Rio Grande Valley. Something I deeply care about is our nonprofit organizations in the RGV and I was honored to share practical and actionable evaluation tips these leaders can implement in their organizations. 
 
-Last week, I took time off on Thursday, meaning I now had a four-day weekend. I had the honor share my experiences as an evaluator at the Texas Evaluation Network Virtual Institute. My presentation was titled "Navigating the Complexities of Building Evaluation and Data Analysis Capacity in Nonprofit Organizations," a topic that generated a lot of interest which I am now considering turning into a blog post and potentially a short book. Something I probably will work on developing on Fridays. 
+Last week, I took time off on Thursday, meaning I now had a four-day weekend. I had the honor to share my experiences as an evaluator at the <a href="https://www.texasevaluationnetwork.org/" target="_blank">Texas Evaluation Network</a> Virtual Institute. My presentation was titled "Navigating the Complexities of Building Evaluation and Data Analysis Capacity in Nonprofit Organizations," a topic that generated a lot of interest, conversations, and shared experiences which I am now considering turning into a blog post and potentially a short book. Something I probably will work on developing on Fridays. 
 
-But it's not all work. I also have a chance to grab lunch with my wife or plan a short getaway with her. I'll get to go grocery shopping or catch a movie mid-morning. Go for a walk. Play with our kitty, Rosita. Visit a museum. Or spend the day with parents. The possibilities are endless!
+But it's not all work. I also have a chance to grab lunch with my wife or plan a short getaway with her. I'll get to go grocery shopping or catch a movie mid-morning. Go for a walk. Play with our kitty, Rosita. Visit a museum. Or spend the day with my parents. The possibilities are endless!
 
 This is my new reality and new normal--a transformative and empowering journey towards a more positive and fulfilling life experience.
