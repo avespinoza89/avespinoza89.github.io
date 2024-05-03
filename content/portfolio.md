@@ -5,6 +5,8 @@ title: Portfolio
 
 Let me show you what I can do for your organization!
 
+<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://itstimetexas.org/wp-content/uploads/Community-Challenge-2023-External-Impact-Report.pdf" target="_blank">It's Time Texas Community Challenge 2023 Impact Report</a>
+
 <a href="https://public.tableau.com/views/RGVHealthNeedsAssessment/NeedsAssessment?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">RGV Social Determinants of Health Needs Assessment</a>
 
 <a href="https://public.tableau.com/views/VBLFEvaluationReport2014to2022/EvaluationReport?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">VBLF Evaluation Dashboard</a>
