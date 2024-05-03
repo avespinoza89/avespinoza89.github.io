@@ -9,7 +9,7 @@ I was experiencing a sense of detachment from myself, almost like observing my o
 
 Imagine watching yourself go through daily life, engaging in familiar activities like going to work, spending time with your loved ones, cooking, shopping, eating out, yet feeling like you're not fully present in those moments. It's as if you're going through the motions while your mind is elsewhere, like an observer rather than an active participant in your own life. Even though you're physically present and engaging in your usual routines, there's a sense of disconnect from the emotions and sensations that typically accompany those experiences.
 
-In mid-February, I had started a new job at an organization I deeply admired, PEAK Grantmaking. So, I was several weeks into my new job when I shared how I felt with my wife.
+In mid-February, I had started a new job at an organization I deeply admired, <a href="https://www.peakgrantmaking.org/" target="_blank">PEAK Grantmaking</a>. So, I was several weeks into my new job when I shared how I felt with my wife.
 
 As my wife and I talked about these feelings, I mentioned to her that I thought the reason I felt this way was because I no longer had to deal with the shit, stress, gas lighting, racial bias, and microaggressions I had experienced the last several years at previous jobs.
 
