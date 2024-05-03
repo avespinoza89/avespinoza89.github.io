@@ -25,7 +25,7 @@ I know I am not alone. In these past workplaces, I encountered peers experiencin
 
 If you find yourself in a situation where you're experiencing doubt, stress, gas lighting, racial bias, discrimination, microaggressions, or other forms of abuse or mistreatment in the workplace, it's important to remember that you deserve better. You deserve to work in an environment where your contributions are valued, your talents are recognized, and you're treated with dignity and respect.
 
-As I write this, I sit at one of my favorite coffee shops, sipping on cold brew, listening to music, and finally updating my website and writing this post to share something I had been wanting to share with the world for quite some time. Today is also the second week of a four-day work week PEAK Grantmaking has implemented in which all staff have Friday's off. 
+As I write this, I sit at one of my favorite coffee shops, sipping on cold brew, listening to music, and finally updating my website and writing this post to share something I wanted to share with the world for some time. Today is also the second week of a four-day work week PEAK Grantmaking has implemented in which all staff have Fridays off. 
 
 I have found a workplace that prioritizes <a href="https://www.peakgrantmaking.org/insights/the-path-to-radical-wellness-how-peaks-focus-on-team-well-being-is-driving-our-evolution/" target="_blank">rest and wellness</a>, values each individual for who they are, and centers equity in all aspects of its operations. I have found a place where I can not only contribute my talents and skills but also be valued and supported as my authentic self.
 
@@ -33,7 +33,7 @@ In centering equity in all aspects of the work, PEAK Grantmaking is demonstratin
 
 This sounds like the kind of inclusive, supportive, and empowering environment everyone deserves to work in.
 
-You may be wondering what have I been doing, or will do, with my Fridays. Well, a couple of weeks ago, I had a chance to present a short evaluation training to nonprofit Executive Directors and CEO's from the Rio Grande Valley. Something I deeply care about is our nonprofit organizations in the RGV and I was honored to share practical and actionable evaluation tips these leaders can implement in their organizations. 
+You may be wondering what have I been doing, or will do, with my Fridays. Well, a couple of weeks ago, I had a chance to present a short evaluation training to nonprofit Executive Directors and CEO's from the Rio Grande Valley. Something I deeply care about is our nonprofit organizations in the RGV and I was honored to share practical and actionable data and evaluation tips these leaders can implement in their organizations. 
 
 Last week, I took time off on Thursday, meaning I now had a four-day weekend. I had the honor to share my experiences as an evaluator at the <a href="https://www.texasevaluationnetwork.org/" target="_blank">Texas Evaluation Network</a> Virtual Institute. My presentation was titled "Navigating the Complexities of Building Evaluation and Data Analysis Capacity in Nonprofit Organizations," a topic that generated a lot of interest, conversations, and shared experiences which I am now considering turning into a blog post and potentially a short book. Something I probably will work on developing on Fridays. 
 
