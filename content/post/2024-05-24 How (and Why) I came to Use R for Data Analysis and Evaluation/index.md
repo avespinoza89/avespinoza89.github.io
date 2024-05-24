@@ -52,4 +52,4 @@ I don't consider my self a programmer or data analyst. My educational background
 
 If you're ready to embark on this transformative journey, feel free to reach out, or explore some of the resource I shared above. I'll be your biggest champion! 
 
-*Fun fact: this website and blog were used created using R! So, add website creation to the list of things you can do with R.*
+*Fun fact: this website and blog were created using R! So, add website creation to the list of things you can do with R.*
