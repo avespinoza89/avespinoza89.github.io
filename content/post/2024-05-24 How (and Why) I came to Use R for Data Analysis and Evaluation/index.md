@@ -3,7 +3,7 @@ date: "2024-05-24"
 title: How (and Why) I came to Use R for Data Analysis and Evaluation.
 ---
 
-I've been using R for data analysis and evaluation since 2014. Back then, I was in graduate school and needed a job, so I applied to a graduate teaching assistant position for an introductory statistics course in the Psychology department. During the interview, the instructor asked if I knew how to use R and I told him I had no idea what he was talking about. He looked at me and said, "If you want the job, you'll need to learn R, that's what I use to teach this course. There's a learning curve, but as long as you follow the code examples in the textbook, you'll be alright." I needed the job, so I said yes, and he handed me a hard copy of the <a href="https://www.openintro.org/book/os/" target="_blank">OpenIntro Statistics</a> book.
+I've been using R for data analysis and evaluation since 2014. (It's my 10 yeaR anniveRsaRy!) Back then, I was in graduate school and needed a job, so I applied to a graduate teaching assistant position for an introductory statistics course in the Psychology department. During the interview, the instructor asked if I knew how to use R and I told him I had no idea what he was talking about. He looked at me and said, "If you want the job, you'll need to learn R, that's what I use to teach this course. There's a learning curve, but as long as you follow the code examples in the textbook, you'll be alright." I needed the job, so I said yes, and he handed me a hard copy of the <a href="https://www.openintro.org/book/os/" target="_blank">OpenIntro Statistics</a> book.
 
 I had no idea what I was getting myself into or how much R would change my life. 
 
