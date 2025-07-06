@@ -3,11 +3,11 @@ date: "2016-05-05T21:48:51-07:00"
 title: Consulting
 ---
 
-I help mission-driven organizations turn data into action.
+I help mission-driven organizations use data and evaluation to learn, improve, and grow.
 
-Many teams collect data but struggle to make sense of it. I work with organizations to assess their data readiness, improve systems for collection and analysis, and use insights to drive strategic decisions and meaningful impact.
+From strategy to implementation, I support organizations in assessing their capacity, strengthening their evaluation and data practices, and using insights to inform decisions and increase impact.
 
-My approach is collaborative and capacity-building. I take time to understand your goals and challenges, then co-create solutions—whether that’s evaluating a program, strengthening your data infrastructure, or supporting long-term learning.
+My approach is collaborative and focused on long-term learning. Whether through tailored consulting, hands-on evaluation support, or customized training, I help teams build the skills and systems they need to drive meaningful change.
 
 # What I Can Do for You
 
