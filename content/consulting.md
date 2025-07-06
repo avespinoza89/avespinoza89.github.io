@@ -32,6 +32,6 @@ My approach is collaborative and focused on long-term learning. Whether through 
 ### Data Collection, Management, and Analysis
 
 
-### Data and Evaluation Workshops and Training
+### Workshops and Training
 
 Let's talk more about how I can help you achieve your organizational goals! Send me an [email](mailto:av.espinoza@outlook.com) or direct message on <a href="https://www.linkedin.com/in/alberto-espinoza-es/" target="_blank">LinkedIn!</a>
