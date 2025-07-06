@@ -15,15 +15,12 @@ I do this by learning about you and your organization or business, identifying k
 
 ### Data Collection, Analysis, and Visualization
 
-- Survey instrument development* 
-- Survey deployment* 
-- Focus groups*
+- Survey development, collection, and analysis* 
+- Focus group facilitation*
 - Personal and group interviews*
-- Data wrangling
+- Data analysis and visualization
 - Exploratory data analysis
-- Descriptive statistics
-- Data Visualization
-- Custom reports & dashboards
+- Evaluation reports & dashboards
 
 *Bilingual: English & Spanish
 
@@ -35,12 +32,10 @@ I do this by learning about you and your organization or business, identifying k
 - Startup cost and budget development
 - Business planning 
 - Evaluability assessment
-- Process evaluation
-- Outcome evaluation
+- Process and outcome evaluation
 
 ### Strategic Planning & Implementation
 
-- Results-based Accountability implementation
 - Key Performance Indicators (KPI's) development and analysis
 - Market research
 - Competitor analysis
