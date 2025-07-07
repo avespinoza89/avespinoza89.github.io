@@ -2,7 +2,7 @@ baseurl: /
 languageCode: en-us
 title: Alberto Espinoza
 theme: hugo-lithium
-googleAnalytics: ''
+googleAnalytics: 'G-ZTJNSJTNCP'
 disqusShortname: ''
 ignoreFiles:
   - \.Rmd$
