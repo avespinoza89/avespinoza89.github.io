@@ -29,7 +29,7 @@ Whether you need help writing a compelling proposal or developing a strong funde
 ### Process, Outcome, or Impact Evaluations
 Want to understand how your programs are working and the difference they’re making? I support the design and implementation of process, outcome, and impact evaluations that are practical, meaningful, and embedded in your ongoing work.
 
-### Data Collection, Management, and Analysis
+### Data Collection, Management, Analysis, and Visualization
 Collecting data but not sure what to do with it? I’ll help you organize your data systems, clean and manage your data, and uncover insights that inform strategic decisions and continuous learning.
 
 ### Workshops and Training
