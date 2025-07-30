@@ -32,6 +32,8 @@ Want to understand how your programs are working and the difference they’re ma
 ### Data Collection, Management, Analysis, and Visualization
 Collecting data but not sure what to do with it? I’ll help you organize your data systems, clean and manage your data, and uncover insights that inform strategic decisions and continuous learning.
 
+### Data Dashboards
+Data dashboards transform raw information into actionable insights. We help organizations design and build user-friendly, visually engaging, internal and external dashboards that support learning, decision-making, and strategic alignment. 
 
 ### Organizational Capacity Development
 Sustainable impact requires more than good programs. It takes strong leadership, clear strategy, and the right infrastructure. I support mission-driven organizations in building the internal capacity they need to thrive. Whether you're strengthening your board, refining your management practices, or aligning your strategy with your values, I bring a thoughtful, collaborative approach to help you build a more effective, resilient organization.
