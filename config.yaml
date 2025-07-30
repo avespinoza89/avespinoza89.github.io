@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Alberto Espinoza
+title: plot + learn
 theme: hugo-lithium
 googleAnalytics: 'G-ZTJNSJTNCP'
 disqusShortname: ''
@@ -37,7 +37,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: logo pl.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
