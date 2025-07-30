@@ -3,7 +3,7 @@ date: "2016-05-05T21:48:51-07:00"
 title: Portfolio
 ---
 
-Let me show you what I can do for your organization!
+Let me show you what we can do for your organization!
 
 <a href="https://public.tableau.com/views/RGVHealthNeedsAssessment/NeedsAssessment?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">RGV Social Determinants of Health Needs Assessment</a>
 
